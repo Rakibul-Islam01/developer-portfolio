@@ -180,3 +180,43 @@ main{
     text-align: center;
     margin-top: 50px;
 }
+
+/* Contact area styles */
+.contact{
+    display: flex;
+    gap: 100px;
+    background-color: #FFF8F3;
+    margin-top: 113px;
+    padding: 130px 200px;
+}
+.contact input, textarea{
+    margin-bottom: 24px;
+    border: none;
+    width: 100%;
+    padding: 15px 30px;
+}
+.connect{
+    margin-bottom: 20px;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 48px;
+    color: #181818;
+}
+.message{
+    margin-bottom: 28px;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 48px;
+    color: #181818;
+}
+.contact-description{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #474747;
+    margin-bottom: 30px;
+}
+.contact a{
+    text-decoration: none;
+    margin-right: 7px;;
+}
